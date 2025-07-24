@@ -31,7 +31,7 @@ The game challenges the user to guess a randomly selected fruit name letter-by-l
 ---
 
 ## Output
-<img width="663" height="678" alt="image" src="https://github.com/user-attachments/assets/d54a072b-80bb-4fdf-8cf0-fd4167699d66" />
+<img width="363" height="378" alt="image" src="https://github.com/user-attachments/assets/d54a072b-80bb-4fdf-8cf0-fd4167699d66" />
 
 ---
 
@@ -49,21 +49,21 @@ FruitHangman/
 2. Make sure you're on **Windows** (due to use of `<windows.h>` and `<conio.h>`)
 3. Compile and run the code:
 
-📋 Example Word List Used
+## 📋 Example Word List Used
 [apple, peach, banana, strawberry, mango]
 
-📌 Requirements
+## 📌 Requirements
 Windows OS (due to console-specific functions)
 C++ compiler (MinGW, MSVC, etc.)
 Console window (CMD or terminal)
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 C++ strings and arrays
 Loops and conditionals
 Functions and animations
 Console manipulation with Windows API
 ASCII art and UI logic
 
-👤 Author
+## 👤 Author
 Mirza Areeb Baig
 
