@@ -37,7 +37,9 @@ The game challenges the user to guess a randomly selected fruit name letter-by-l
 
 ## 📁 Project Structure
 
-pre> <code> ``` FruitHangman/ ├── README.md ├── main.cpp``` </code> </pre>
+pre> <code> ``` FruitHangman/
+├── README.md 
+├── main.cpp``` </code> </pre>
 
 ---
 
